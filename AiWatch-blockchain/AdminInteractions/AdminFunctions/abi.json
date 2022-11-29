@@ -1,0 +1,130 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_AdminAddress",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_StorageAddress",
+				"type": "address"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_receiver",
+				"type": "address"
+			}
+		],
+		"name": "RetriveInterface",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "Hash",
+				"type": "string"
+			}
+		],
+		"name": "StoreInterface",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_sender",
+				"type": "address"
+			}
+		],
+		"name": "deleteCorresponding",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "isDeleted",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getAdminList",
+		"outputs": [
+			{
+				"internalType": "address[]",
+				"name": "",
+				"type": "address[]"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_sender",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_receiver",
+				"type": "address"
+			}
+		],
+		"name": "newCorresponding",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "isAdded",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_sender",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "_receiver",
+				"type": "address"
+			}
+		],
+		"name": "updateEntity",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "isUpdated",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]

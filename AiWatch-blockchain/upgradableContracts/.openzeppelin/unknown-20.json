@@ -1,0 +1,1443 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0x855d1c79Ad3fb086D516554Dc7187E3Fdfc1C79a",
+      "txHash": "0x18fdfe3ad8023928cc8cbd28bb32e9cad127680f49c870f2b2718d8cb597f7b5",
+      "kind": "uups"
+    },
+    {
+      "address": "0x8065F4c7b8c2bf53561af92D9DA2Ea022A0b28Ca",
+      "txHash": "0x46ca5a869de1f6e994485f2d302436d7809747202a2ae1a99dfaad3b7679a186",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4a5cd58b24e3BF04360B06bFEaF45A39aA8035b6",
+      "txHash": "0x8f46f6f8495b24a772985909ae59ed685b452e26f650f4ee28a36076e9790f36",
+      "kind": "uups"
+    },
+    {
+      "address": "0xABa7902442c5739c6f0c182691d48D63d06A212E",
+      "txHash": "0x4fc7f1d5a562d41c7e9b8b0ba4c381237072dbb5ad5cb8f37bc7714788a1a09a",
+      "kind": "uups"
+    },
+    {
+      "address": "0x5034F49b27353CeDc562b49eA91C7438Ea351d36",
+      "txHash": "0x12057b658e399ad4cba3f7599be592cf2376b0aec83eefe01c9c4ece3341ada5",
+      "kind": "uups"
+    },
+    {
+      "address": "0x057D2360aBbe75F9fdF142f2CfE68cFC9a74EC12",
+      "txHash": "0x79ecabd0f24e336ee0273812da2ad4235fe20457cc2e2b56f247abaaec7b2c42",
+      "kind": "uups"
+    },
+    {
+      "address": "0xF426505ac145abE033fE77C666840063757Be9cd",
+      "txHash": "0xaf1c446f85328bad8b25f48da866666995649f9d4ee3566079385a1dd4e079b7",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9d075ae44D859191C121d7522da0Cc3B104b8837",
+      "txHash": "0x60ff5a30de8df2fc4ef954719a45338d60f2744bdb1e5f7ad9e096d78fb51bb8",
+      "kind": "uups"
+    },
+    {
+      "address": "0x66078a97Def9d40B2cA7abb44733dD897Ec6231D",
+      "txHash": "0x8833569b6df5a8a9af4d6d21564d8b52eed26b3f876687e3c9799d172bfe8390",
+      "kind": "uups"
+    },
+    {
+      "address": "0x62227531b82259561CC9ad4413188F08E536598a",
+      "txHash": "0xc59b4ff955c9e098e19399a24a7fc3a2dd169ff3355d5c5a34410ec1dcaccb82",
+      "kind": "uups"
+    },
+    {
+      "address": "0x8f1A69555d18587277937D06A6dF3C07459d1dA9",
+      "txHash": "0xe3701d26ad070fc6ad978baf6b88af4d7cacc5caf6417c42ec148b6ebc47e0e8",
+      "kind": "uups"
+    },
+    {
+      "address": "0xace937991395B2051613368206066EB2E752a333",
+      "txHash": "0x54d20975d0ab3aed7d4586531e174face9b9b5f58c97644727c4b834bd7d6095",
+      "kind": "uups"
+    },
+    {
+      "address": "0xf491289b5DA695D7892B4960dcf48eB7e1ACb6B8",
+      "txHash": "0x50061ab8c6411b104c1aabeb7b8a7caadfc8a787e6cabcf8fc81223c5731376b",
+      "kind": "uups"
+    },
+    {
+      "address": "0xE53A3Bac98c9D304a3bB6Ce34ed37923BC25117a",
+      "txHash": "0xad3d14f0f9e85c96e1d1ec27ab61c7fd2541faad97f746ee7aaba7a587ff2391",
+      "kind": "uups"
+    },
+    {
+      "address": "0xE2B6CF3863240892d59664d209a28289a73EF644",
+      "txHash": "0xc1cf8d5086a013915f32678ca35d10466c1d583a097c141dc9218809b24b988a",
+      "kind": "uups"
+    },
+    {
+      "address": "0x219EBb52F4E92c4FA554E80316B95D4adefb3ED6",
+      "txHash": "0xa3c24024337b4fda302d521816d8b4a5e8d72e9eeafc0fcd6fcc86ca01da5971",
+      "kind": "uups"
+    },
+    {
+      "address": "0x294392155c0d1b5Ed5f2D677F9d855a4106F7E48",
+      "txHash": "0xb1cd91964ac03a7ee2b863ba111550cc1f8df14b75d56b52e2a0cc056f198e4b",
+      "kind": "uups"
+    },
+    {
+      "address": "0xe161f0340948199Fa3Ad5819D72d52ec4643f488",
+      "txHash": "0x9ff0e1771df6a737646bcedd4b00e5929e88e4a6c6e1b3dd13f1e4814d39a2c8",
+      "kind": "uups"
+    },
+    {
+      "address": "0x69BfaF75c75A85bBBEC12d3E108f1b3A2856aA5a",
+      "txHash": "0xbb2d7d108752da38abcb8ea2449ef56c7ba5bfa8106fab954e932310e8e27096",
+      "kind": "uups"
+    },
+    {
+      "address": "0x58056F51402E855CD7670ae4e842Fc95c227CD83",
+      "txHash": "0x33e64b541a3c6621b2e789186078b609146ec8dd716ca5c9c24add4e6c7df7d5",
+      "kind": "uups"
+    },
+    {
+      "address": "0x1FdE8F79B63cbACBefa2E7e3e158Bae2380A1ae9",
+      "txHash": "0x9f901f5bb6756885ddfa4a21b929fdd8e51d51c4ba309774eedc9082dbe2b3f1",
+      "kind": "uups"
+    },
+    {
+      "address": "0x48DD0dcaeCe8EbDe0A5F2E7A69B1082cd318cCd1",
+      "txHash": "0x6007910a0b20b54a2c163876d3f6c2b3d5503ad365c8e05d33cee2491ebe463e",
+      "kind": "uups"
+    },
+    {
+      "address": "0x13C72f3c8bC7AfC2609a9da61a0d185c50085Cf8",
+      "txHash": "0x543ce7fde4c2867c14bdc9e4dd2a02507870393bbf4bc68dbe3e4bab647247c3",
+      "kind": "uups"
+    },
+    {
+      "address": "0xA9d4995A54C2dcE792E3C263a311C4b40c45fD3B",
+      "txHash": "0x6b167adff4ed22d426ba3071d5e19bd98fcd355d3c94813813460b260709b25a",
+      "kind": "uups"
+    },
+    {
+      "address": "0xFB27C25AE9541289CB088647748F2d8cb6318094",
+      "txHash": "0xc2453dfeabf07f8bd0b493d6d140af3a69cd83d0a241c16101164183054f3dec",
+      "kind": "uups"
+    },
+    {
+      "address": "0x7edf203fC69b33d7CaFa4837BD1a73bC1C58F618",
+      "txHash": "0x2276039f2111eec7f6715f240de04a9c3487142e7718d3c5b1feddaa3f504f7d",
+      "kind": "uups"
+    },
+    {
+      "address": "0xb1800CB6f6c2ff3bd951Daf1F9F33e790dA055A4",
+      "txHash": "0xdf894aea71039d0ccc7db566bbb4fe302f805141c298169ab03611941b1ef2b1",
+      "kind": "uups"
+    },
+    {
+      "address": "0x6df3eA4eBE4Ee1D270ACa537da66a37314F74C03",
+      "txHash": "0x164e7a519a6e273081aa9c504945c88d16fe602c5a5bdc2c3b5b54e18daa014c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x503e3424D6cA37d9E4cD4E76aE49e38827DbB614",
+      "txHash": "0xa802c1a16a101d7eea149240e3cee4d3988bb3e129ce5df6993c943b34f12ebc",
+      "kind": "uups"
+    },
+    {
+      "address": "0xE0bF6021e023a197DBb3fABE64efA880E13D3f4b",
+      "txHash": "0xdbc4524652a1dcc003281830487124858add77a41e478335601dcc28184f7518",
+      "kind": "uups"
+    },
+    {
+      "address": "0x074bF216979389dE24F0684feC80790a8c2D2508",
+      "txHash": "0x9ead450d70777e6772ed22180dfa1d2ddde2802d9f43c235df4433acfe62c128",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9A6041D25B77A16b0A63c6B157CD49ABBF2aE966",
+      "txHash": "0x5c0c1d49667e87ad438727b3eaf494ccbdaca8bfcc3eb82c5b9e24f92b18318a",
+      "kind": "uups"
+    },
+    {
+      "address": "0x5B2073Dd741BA8eDfEc887016b23E746F5dec48C",
+      "txHash": "0x51f685fc093895d7955bcadb27cbd858c4486353e4f24b4acdff2371f6a51ae1",
+      "kind": "uups"
+    },
+    {
+      "address": "0x0bFE658740556A3277fa529A6BbC265d5f65B516",
+      "txHash": "0x1fe1b4b0497addfd10b3be7585fa47ff769cef70f5f507f1bdb1e7cdc3cc6a6f",
+      "kind": "uups"
+    },
+    {
+      "address": "0x82EdCB95F8b3C2906101AdbbdB4c61934F47fdF0",
+      "txHash": "0x95b7617fb65ed285e53a8e40359ab02191eecfb78484b5d179a4ab39e0e52c30",
+      "kind": "uups"
+    },
+    {
+      "address": "0x933C6F4851A30E22D0F0f44e198a865E9E9608A7",
+      "txHash": "0x37381806dc840722996a7aecc26082eeda4ee058499495b9c3aae56209b62c35",
+      "kind": "uups"
+    },
+    {
+      "address": "0x0893C3937aCc139643Fe3641c27A59a312897a04",
+      "txHash": "0x0f83c1ad66c495edc43aa17565bf4953d9adf105c6184858cc15d932a18ffbe1",
+      "kind": "uups"
+    },
+    {
+      "address": "0xe9B0Db4F6778b89CCD9Fc67c0CCcB39A87aFD29F",
+      "txHash": "0x40ce982db9c990430b35cd3b6d80145c477a835724db1d38ca42a0090aee9a89",
+      "kind": "uups"
+    },
+    {
+      "address": "0xF0d94F03deB4B3422c2Ae27C671df7C436Ce0120",
+      "txHash": "0xb3dea5da4003f2da70ffb4b76a8194093d343a3644d0889b5e6ae90392769135",
+      "kind": "uups"
+    },
+    {
+      "address": "0xaA780861DA3d81D3eCef0d2CcfB8ba58466a5dE9",
+      "txHash": "0x6df4b85def17543279350b067ce5a95b4325f65132e71d93690437e2e58735d3",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "5a5d81f7b5a7bdddf7aa558adf52eceb86b052a002c178b63fa5b2b11214898b": {
+      "address": "0x2467636BEa0F3c2441227eeDBfFaC59f11D54a80",
+      "txHash": "0x0decdb93de006a92282d1bcfdc89235f06353538719d687b1b837fd6f8de596a",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "CheckSum",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_string_storage)",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:9"
+          },
+          {
+            "label": "ManagerProxyAddress",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_address",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:11"
+          },
+          {
+            "label": "owner",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_string_storage)": {
+            "label": "mapping(address => string)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "a40c5134411a94a044aa0a5d5c70905b3fd075e94c5047e8806a7b0c9bf126e3": {
+      "address": "0x913bbCFea2f347a24cfCA441d483E7CBAc8De3Db",
+      "txHash": "0x999d9482d434185f9d2a1cd371d10bbf50ad3f346c9cf640738b180f9bc96d8b",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1072_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:23"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:25"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(Admin)1048",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1063",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(Admin)1048": {
+            "label": "contract Admin",
+            "numberOfBytes": "20"
+          },
+          "t_contract(StorageContract)1063": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1072_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1072_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "8ebf8744aadd6da07b7638bc79278b0ec65041bca556eea32f5462042308e420": {
+      "address": "0x35b338b4ADE005F25a8982A597638827B8617Ad4",
+      "txHash": "0x8277a04dcb735391297018ab3d8373257b583948c71cd644ab5fae4a81cb8ac5",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "CheckSum",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_string_storage)",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:9"
+          },
+          {
+            "label": "ManagerProxyAddress",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_address",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:11"
+          },
+          {
+            "label": "owner",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_address",
+            "contract": "Storage",
+            "src": "contracts/Storage.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_string_storage)": {
+            "label": "mapping(address => string)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "de8615d65d95ad693cb736e1ec4108f26206f8cd07527ca8b84aae48b5b3dc13": {
+      "address": "0xF57f76D23568E31b12f62E7B8eB880f486369bCf",
+      "txHash": "0x95d1ee9a04c1de435d81a8f95e0a7528442f74e76e8c424b75e513e66b38dbd7",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1072_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:23"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:25"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(Admin)1048",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1063",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(Admin)1048": {
+            "label": "contract Admin",
+            "numberOfBytes": "20"
+          },
+          "t_contract(StorageContract)1063": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1072_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1072_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "784b376cff833373f79a88876458ea560aabed0eb8835680b9472606b432e550": {
+      "address": "0x48cF3EF6aF69A257a68e2350c3Ce267E5C47626c",
+      "txHash": "0x2b5fee3929152b971daf0e0bbe0207962e6b6e385ff41c94831c0281926e3c38",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1072_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:23"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:25"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(Admin)1048",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1063",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(Admin)1048": {
+            "label": "contract Admin",
+            "numberOfBytes": "20"
+          },
+          "t_contract(StorageContract)1063": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1072_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1072_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "10da8288ab5366f7534b640fd1128fa1c435c0dbb7edf3419bee57dc3d2ff889": {
+      "address": "0x7BF7ae2DA6013aA8de29627E29e4b9fa807D4469",
+      "txHash": "0x77da469bfb1f1fbc47b0a609fb9f42e5fb6e3168cf79d6481a44bcc916529855",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1072_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:23"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:25"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(Admin)1048",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1063",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(Admin)1048": {
+            "label": "contract Admin",
+            "numberOfBytes": "20"
+          },
+          "t_contract(StorageContract)1063": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1072_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1072_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "3f8d7bc59d364ab74be5ed6b23c800389d7d78c051ed1dd145dcf46263808488": {
+      "address": "0x5B3C2C61643515Ec7354cC8d6E8FBfF040e5FdB1",
+      "txHash": "0x4bcd8e5a994764162b448724028ecf5fc269fd2debf789a3c2b141474455e17d",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1079_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(prova)1055",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:31"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1070",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:33"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(StorageContract)1070": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(prova)1055": {
+            "label": "contract prova",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1079_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1079_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "5ae7dfbc40cd1e13a92e5add9222dcc7d43cda7cb4c110d19dc1963456ef0a10": {
+      "address": "0xE843CDE33060bf9CB11723934EAD6a3DE410DdEE",
+      "txHash": "0x9ea397c33246e3307a1eef30ea1ba0e5bcdb93f9e3192347be51f54b6e447364",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1079_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(prova)1055",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:31"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1070",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:33"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(StorageContract)1070": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(prova)1055": {
+            "label": "contract prova",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1079_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1079_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "5bf29391384abae2807b26fc2bb190f10eea4244f114bcd0678606fdfa151682": {
+      "address": "0x774DDa3beEf9650473549Be4EE7054a2ef5B0140",
+      "txHash": "0xea1a01c2064472c897f2b52df72f1cb43a9a529435f7a5c8299229a27b880db7",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1071_storage)",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:27"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:29"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(prova)1047",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:31"
+          },
+          {
+            "label": "StorageContractProxyInstance",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_contract(StorageContract)1062",
+            "contract": "Manager",
+            "src": "contracts/Manager.sol:33"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(StorageContract)1062": {
+            "label": "contract StorageContract",
+            "numberOfBytes": "20"
+          },
+          "t_contract(prova)1047": {
+            "label": "contract prova",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1071_storage)": {
+            "label": "mapping(address => struct Manager.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1071_storage": {
+            "label": "struct Manager.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    },
+    "63508e1de232e5fb8f2c340cddffa6196c43fbf7cbef46106c7b25472e2e6e96": {
+      "address": "0x3d7E44D9C1EDF03a368605bd83769851219e65ff",
+      "txHash": "0xacc6c91bf9f1a5079ce094de7b4e041c77ec8f5b5f137b45ca49be6fefa8a704",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:67"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ERC1967UpgradeUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/ERC1967/ERC1967UpgradeUpgradeable.sol:211"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "UUPSUpgradeable",
+            "src": "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol:107"
+          },
+          {
+            "label": "correspondings",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_mapping(t_address,t_struct(Receiver)1057_storage)",
+            "contract": "ManagerV1",
+            "src": "contracts/ManagerV1.sol:18"
+          },
+          {
+            "label": "adminList",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "ManagerV1",
+            "src": "contracts/ManagerV1.sol:20"
+          },
+          {
+            "label": "AdminContractInstance",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_contract(Admin)1048",
+            "contract": "ManagerV1",
+            "src": "contracts/ManagerV1.sol:22"
+          },
+          {
+            "label": "CheckSum",
+            "offset": 0,
+            "slot": "104",
+            "type": "t_mapping(t_address,t_string_storage)",
+            "contract": "ManagerV1",
+            "src": "contracts/ManagerV1.sol:24"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(Admin)1048": {
+            "label": "contract Admin",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_string_storage)": {
+            "label": "mapping(address => string)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(Receiver)1057_storage)": {
+            "label": "mapping(address => struct ManagerV1.Receiver)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Receiver)1057_storage": {
+            "label": "struct ManagerV1.Receiver",
+            "members": [
+              {
+                "label": "to",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "exists",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        }
+      }
+    }
+  }
+}

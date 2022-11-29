@@ -8,7 +8,10 @@ miner-coinbase="0x0000000000000000000000000000000000000000"
 # rpc
 rpc-http-enabled=true
 rpc-http-api=["ADMIN","ETH","NET","IBFT","WEB3","MINER"]
+rpc-ws-api=["ADMIN","ETH","NET","IBFT","WEB3","MINER"]
 rpc-http-cors-origins=["*"]
+rpc-ws-enabled=true
+rpc-ws-host="0.0.0.0"
 
 permissions-nodes-contract-version=2
 
